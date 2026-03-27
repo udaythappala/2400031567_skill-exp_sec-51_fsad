@@ -1,9 +1,0 @@
-INDEX VERSION 1.134+C:\Users\udayt\OneDrive\Desktop\FULLSTACK\FSAD_S-2_SKILL_LAB-main\.metadata\.plugins\org.eclipse.jdt.core
-742416745.index
-3307455580.index
-724411760.index
-1546294758.index
-1865797976.index
-1531400703.index
-2988766410.index
-3146954977.index
